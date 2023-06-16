@@ -1,7 +1,9 @@
+<img  width="1000" align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<img  width="1000" align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 <h1 align="center">Hi 👋, I'm Oshani Kumarathunga</h1>
 <h3 align="center">Information Technology Undergraduate , University of Moratuwa.</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/woman-working-laptop-cartoon-illustration_607277-162.jpg">
-
+ <!--<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshanikumarathunga&label=Profile%20views&color=0e75b6&style=flat" alt="oshanikumarathunga" /> </p>
 
@@ -32,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshanikumarathunga&" alt="oshanikumarathunga" /></p> -->
 
-<img width="970" height="450" align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
