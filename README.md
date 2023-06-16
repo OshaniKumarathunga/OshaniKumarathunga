@@ -1,3 +1,4 @@
+<img width="970" height="450" align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h1 align="center">Hi 👋, I'm Oshani Kumarathunga</h1>
 <h3 align="center">Information Technology Undergraduate , University of Moratuwa.</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/woman-working-laptop-cartoon-illustration_607277-162.jpg">
