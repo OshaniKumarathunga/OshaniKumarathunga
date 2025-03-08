@@ -1,4 +1,4 @@
-<img  width="1000" align="center" height="5" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<!-- <img  width="1000" align="center" height="5" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> -->
 <!-- <img  width="1000" align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"> -->
 <h1 align="center">Hi 👋, I'm Oshani Kumarathunga</h1>
 <h3 align="center">Information Technology Undergraduate , University of Moratuwa.</h3>
