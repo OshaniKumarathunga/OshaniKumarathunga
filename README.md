@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@oshanikumarathunga](https://medium.com/@oshanikumarathunga)
 
-- 💬 Ask me about **Angular**
+<!-- - 💬 Ask me about **Angular** -->
 
 - 📫 How to reach me **oshanikumarathunga613@gmail.com**
 
