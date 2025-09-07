@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Engineer | Full-Stack Development (Java, Spring Boot, React, Angular)</h3>
 <h3 align="center">Information Technology Graduate , University of Moratuwa.</h3>
 <!--<img align="right" width="400" src="https://img.freepik.com/premium-vector/woman-working-laptop-cartoon-illustration_607277-162.jpg">-->
- <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+<!--  <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshanikumarathunga&label=Profile%20views&color=0e75b6&style=flat" alt="oshanikumarathunga" /> </p>
 
